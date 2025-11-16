@@ -1,0 +1,9 @@
+## Curso Básico de Electrónica desde Cero
+
+## Introducción
+
+Este curso está diseñado para principiantes que quieran aprender los fundamentos de la electrónica de forma práctica y progresiva. 
+
+Comenzaremos con el uso de la protoboard y herramientas básicas, seguido de componentes simples como LEDs, resistencias, interruptores y pilas, y avanzaremos hacia proyectos más complejos utilizando una Raspberry Pi Pico programada con MicroPython como complejento. 
+
+No se requieren conocimientos previos.
